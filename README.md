@@ -1,3 +1,4 @@
+```js
 const bio = {
   specialization: ["C# .NET Core", "Python", "JavaScript", "React.js"],
   databases: ["MongoDB", "MS SQL"],
@@ -10,3 +11,4 @@ const bio = {
 
 console.log("Software developer passionate about crafting elegant solutions and pushing the boundaries of technology. Let's collaborate and create something extraordinary!");
 console.log("Connect with me on GitHub:", bio.github);
+```
