@@ -9,6 +9,6 @@ const bio = {
   github: "https://github.com/yourusername"
 };
 
-console.log("Software developer passionate about crafting elegant solutions and pushing the boundaries of technology. Let's collaborate and create something extraordinary!");
+console.log("Software developer passionate about crafting elegant solutions and pushing the boundaries of technology.");
 console.log("Connect with me on GitHub:", bio.github);
 ```
