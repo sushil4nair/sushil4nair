@@ -1,6 +1,6 @@
 ```js
 const bio = {
-  specialization: ["C# .NET Core", "Python", "JavaScript", "React.js"],
+  specialization: ["C# .NET Core", "Python", "JavaScript"],
   databases: ["MongoDB", "MS SQL"],
   uiDesign: ["Figma", "CorelDRAW"],
   personalityTraits: ["Tech enthusiast", "Innovator", "Problem-solver"],
